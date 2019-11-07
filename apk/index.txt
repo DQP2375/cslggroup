@@ -1,0 +1,11 @@
+<script type="text/javascript">
+//修改window.location.href
+window.location.href ='https://www.coolapk.com/apk/com.dqp.cslggroup';
+
+//替换url，注意这种方式有时并不是有效的,需要强制reload才行
+//window.location.replace('https://www.coolapk.com/apk/com.dqp.cslggroup');
+//window.location.reload(true);
+
+//修改window导航
+//window.navigate ('https://www.coolapk.com/apk/com.dqp.cslggroup') 
+</script>;
