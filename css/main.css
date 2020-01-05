@@ -3648,7 +3648,15 @@ html.no-csstransitions .home-content__main {
 .s-download .download-badges li a.badge-cslggroup {
   background-image: url("../images/cslggroup_d.png");
 }
-
+.s-download .download-badges li a.badge-oppo {
+  background-image: url("../images/OPPO.png");
+}
+.s-download .download-badges li a.badge-vivo {
+  background-image: url("../images/VIVO.png");
+}
+.s-download .download-badges li a.badge-pp {
+  background-image: url("../images/pp.png");
+}
 .s-download .download-bottom-image {
   margin-top: 11.2rem;
 }
